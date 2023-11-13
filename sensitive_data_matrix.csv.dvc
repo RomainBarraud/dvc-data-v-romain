@@ -1,4 +1,4 @@
 outs:
-- md5: b89689f1c88a5dc21361ab45aefbaa08
-  size: 86
+- md5: 241ceb453e223d2628baddfa9f0c761b
+  size: 59
   path: sensitive_data_matrix.csv
